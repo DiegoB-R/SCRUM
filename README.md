@@ -1,5 +1,5 @@
 # SCRUM
-# 📋 Proyecto SCRUM - [Nombre de tu Asignatura/Proyecto]
+# 📋 Proyecto SCRUM - Integradora
 
 Este repositorio contiene la documentación y los artefactos generados durante la gestión del proyecto **PrimerPaso** utilizando la metodología ágil **Scrum**.
 
